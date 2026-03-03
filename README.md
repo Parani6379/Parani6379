@@ -164,15 +164,6 @@ Multi-user encrypted file storage with role-based access control and secure clou
   <img src="https://github-profile-trophy.vercel.app/?username=Parani6379&theme=darkhub&no-frame=true&margin-w=10" />
 </div>
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parani6379&theme=react-dark&hide_border=true" />
-</div>
-
----
 
 ## 💡 What I'm Working On
 ```python
