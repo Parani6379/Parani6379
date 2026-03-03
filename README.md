@@ -149,19 +149,15 @@ Multi-user encrypted file storage with role-based access control and secure clou
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Parani6379&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" />
+
+  <img src="https://img.shields.io/badge/Total_Repos-Public-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/followers/Parani6379?label=Followers&style=for-the-badge&logo=github&color=0077B5" />
+  <img src="https://img.shields.io/github/stars/Parani6379?label=Total%20Stars&style=for-the-badge&logo=github&color=yellow" />
+
   <br/><br/>
+
   <img src="https://streak-stats.demolab.com?user=Parani6379&theme=dark&hide_border=true" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parani6379&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
-</div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Parani6379&theme=onedark&no-frame=true&margin-w=10&row=1" />
 </div>
 
 ---
