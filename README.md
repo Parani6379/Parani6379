@@ -2,7 +2,7 @@
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Paranitharan</strong>
+  Hi, I'm <strong>Parani</strong>
 </h1>
 
 <h3>Full Stack Developer & AI/ML Enthusiast | Python • MERN • PHP</h3>
@@ -17,7 +17,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/🌍_Thiruvarur,_Tamil_Nadu,_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:paranitharansuriyamoorthy@gmail.com"><img src="https://img.shields.io/badge/📧_paranitharansuriyamoorthy@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <a href="mailto:paranitharansuriyamoorthi@gmail.com"><img src="https://img.shields.io/badge/📧_paranitharansuriyamoorthi@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(AI_•_Web_•_ML)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🧠_AI_Builder_(On_a_Mission)-1e1e2e?style=for-the-badge" />
   </p>
@@ -27,7 +27,7 @@
   <a href="https://github.com/Parani6379">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/parani-tharan-28b25a375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://linkedin.com/in/parani6379">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -162,14 +162,6 @@ Multi-user encrypted file storage with role-based access control and secure clou
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Parani6379&theme=darkhub&no-frame=true&margin-w=10" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parani6379&theme=react-dark&hide_border=true" />
 </div>
 
 ---
