@@ -16,8 +16,8 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/🌍_Aruppukkottai,_Tamil_Nadu,_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:parani6379@gmail.com"><img src="https://img.shields.io/badge/📧_parani6379@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/🌍_Thiruvarur,_Tamil_Nadu,_India-1e1e2e?style=for-the-badge" />
+    <a href="mailto:paranitharansuriyamoorthy@gmail.com"><img src="https://img.shields.io/badge/📧_parani6379@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(AI_•_Web_•_ML)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🧠_AI_Builder_(On_a_Mission)-1e1e2e?style=for-the-badge" />
   </p>
