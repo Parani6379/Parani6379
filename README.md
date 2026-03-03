@@ -149,11 +149,11 @@ Multi-user encrypted file storage with role-based access control and secure clou
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Parani6379&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Parani6379&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=Parani6379&theme=dark&hide_border=true" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parani6379&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parani6379&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
 </div>
 
 ---
@@ -161,7 +161,7 @@ Multi-user encrypted file storage with role-based access control and secure clou
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Parani6379&theme=darkhub&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Parani6379&theme=onedark&no-frame=true&margin-w=10&row=1" />
 </div>
 
 ---
