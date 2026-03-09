@@ -145,22 +145,6 @@ Multi-user encrypted file storage with role-based access control and secure clou
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <br/>
-
-  <img src="https://img.shields.io/badge/Total_Repos-Public-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/followers/Parani6379?label=Followers&style=for-the-badge&logo=github&color=0077B5" />
-  <img src="https://img.shields.io/github/stars/Parani6379?label=Total%20Stars&style=for-the-badge&logo=github&color=yellow" />
-
-  <br/><br/>
-
-  <img src="https://streak-stats.demolab.com?user=Parani6379&theme=dark&hide_border=true" />
-
-</div>
-
----
 
 ## 💡 What I'm Working On
 ```python
