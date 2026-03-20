@@ -30,6 +30,9 @@
   <a href="https://www.linkedin.com/in/parani-tharan-28b25a375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://parani6379.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
   <img src="https://komarev.com/ghpvc/?username=Parani6379&style=flat-square&color=blue" alt="Profile Visit"/>
@@ -96,55 +99,102 @@
 <tr>
 <td width="50%">
 
-### 🎯 AI Event Planner
+### 🖥️ [AntiGravity POS](https://github.com/Parani6379/Advanced_POS)
+> Flask · SQLAlchemy · Twilio · ReportLab  
+Production-ready Point-of-Sale system with dark luxury UI, role-based access (Admin/Manager/Cashier/Customer), inventory management, customer loyalty tiers, PDF receipts, email/SMS notifications, and sales analytics dashboard.
+
+</td>
+<td width="50%">
+
+### 📊 [Digital Marketing Analytics](https://github.com/Parani6379/Digital_Marketing_Analytics)
+> Flask · Pandas · SQLite · Chart.js  
+Full-featured marketing analytics dashboard — upload campaign CSV data to instantly visualize KPI metrics (ROAS, CTR, ROI), campaign performance, channel breakdowns, and Instagram analytics.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎯 [AI Event Planner](https://github.com/Parani6379/AI_Event_Planner)
 > Flask · Python · Gemini AI · Stability AI  
-An intelligent event planning assistant powered by Gemini AI with AI-generated visuals. Handles planning, scheduling, and creative assets end-to-end.
+Intelligent event planning assistant powered by Gemini AI with AI-generated visuals. Handles planning, scheduling, and creative assets end-to-end.
 
 </td>
 <td width="50%">
 
-### 🏥 AI Hospital System
+### 🏥 [AI Hospital System](https://github.com/Parani6379/AI_Hospital_System)
 > Flask · Python · ML  
-AI-powered hospital management with smart triage, real-time bed tracking, and analytics dashboards.
+AI-powered hospital management with smart triage, real-time bed tracking, pharmacy, appointments, vitals monitoring, and analytics dashboards.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🧠 NeuraScan – Dyslexia Screening
-> Python · Random Forest · ML  
-ML-based dyslexia screening using Random Forest classification for early, accessible neurological assessments.
+### 🧠 [NeuraScan – Dyslexia Screening](https://github.com/Parani6379/Neuroscan-dyslexia-screening)
+> Python · Random Forest · Flask · Chart.js  
+ML-based dyslexia and attention screening using Random Forest classification for early, accessible neurological assessments with personalized analytics.
 
 </td>
 <td width="50%">
 
-### 🛒 Advanced E-Commerce Platform
-> Flask 3.1 · Python · Session Auth  
-Production-ready fashion e-commerce store with session-based authentication and scalable architecture.
+### 🛒 [Advanced E-Commerce Platform](https://github.com/Parani6379/Modern_E-Commerce_Website)
+> Flask 3.1 · SQLAlchemy · Flask-Login · Flask-Mail  
+Production-ready fashion e-commerce store with session auth, CSRF protection, order emails, image uploads, and Gunicorn deployment.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 💸 Expense Tracker (MERN)
+### 💸 [Expense Tracker (MERN)](https://github.com/Parani6379/Expense-tracker-mern)
 > MongoDB · Express · React · Node.js  
-Full-stack financial tracking app with CRUD operations and data visualization.
+Full-stack financial tracking app with income/expense categories, monthly filtering, and real-time balance calculations.
 
 </td>
 <td width="50%">
 
-### 🔒 Secure Cloud Storage
-> Full Stack · Encryption  
-Multi-user encrypted file storage with role-based access control and secure cloud integration.
+### 🔒 [Secure Cloud Storage](https://github.com/Parani6379/Secure-cloud-storage)
+> Python · Full Stack · Encryption  
+Secure multi-user cloud storage system with encryption, distributed nodes, and role-based access control.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🍽️ [Diet Plan Manager](https://github.com/Parani6379/Diet-Plan-Manager)
+> Flask · Python · SQLite · OTP Auth  
+Personalized diet planning web app with OTP authentication, macro tracking, and weekly meal planning dashboard.
+
+</td>
+<td width="50%">
+
+### 🎓 [Student Management System](https://github.com/Parani6379/Student-management-system)
+> MongoDB · Express · Node.js · React  
+Full-stack MERN student management system with complete CRUD operations, real-time search, and responsive UI.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎬 [Movie Recommender](https://github.com/Parani6379/Movie-recommender)
+> Node.js · Express · JavaScript  
+Personalized movie recommendation app based on user ratings and preferences with a user-friendly interface.
+
+</td>
+<td width="50%">
+
+### 🚕 [Online Cab Booking](https://github.com/Parani6379/Online-cab-booking)
+> PHP · MySQL · HTML · JS  
+Web-based cab booking system for users to search, book, and manage rides with admin panel for drivers and vehicles.
 
 </td>
 </tr>
 </table>
 
 ---
-
 
 ## 💡 What I'm Working On
 ```python
